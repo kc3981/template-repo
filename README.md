@@ -17,3 +17,8 @@ The respository also has
 - Reference Spring boot API project
 - Lombok configuration for removing boiler plate code
 - JUnit5 and Mockito tests
+
+What's coming
+
+- Pre-configured github action to run static code analysis using SonarCloud
+- Pre-configured github action to deploy package to Github packages
