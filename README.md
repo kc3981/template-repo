@@ -1,5 +1,6 @@
 # template-repo
 
+## Preconfigured with
 Template repository can be used to create github repos with the following configuration
 
 - Protected main branch
@@ -10,7 +11,7 @@ Template repository can be used to create github repos with the following config
 - Contributing guidelines
 - PR templates
 
-# Reference Spring Boot Repo 
+## Reference Spring Boot Repo 
 
 The respository also has 
 
@@ -18,7 +19,7 @@ The respository also has
 - Lombok configuration for removing boiler plate code
 - JUnit5 and Mockito tests
 
-What's coming
+## What's coming
 
 - Pre-configured github action to run static code analysis using SonarCloud
 - Pre-configured github action to deploy package to Github packages
